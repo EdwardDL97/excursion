@@ -1,3 +1,11 @@
+body {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+/* HEADINGS */
+
 h1 {
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -6,6 +14,18 @@ h1 {
     text-align: center;
 }
 
-body {
-    background-color: black;
+h2 {
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+h4 {
+    color: gray;
+    font-size: 21px;
+}
+
+.link--cta {
+    color: aquamarine;
+    font-size: 16px;
 }
